@@ -1,0 +1,11 @@
+id = "ela"
+name = "Ela"
+version = "0.0.1"
+schema_version = 1
+authors = ["Cooper <cooper.pilot@hotmail.com>"]
+description = "Ela language extension"
+repository = "https://github.com/JoshNCooper-League-of-Excellence/ela-zed-ext"
+
+[grammars.ela]
+repository = "https://github.com/JoshNCooper-League-of-Excellence/ela-tree-sitter"
+commit = "aaf688171dfa7242b64df2d697ccd3a71892bcd0"

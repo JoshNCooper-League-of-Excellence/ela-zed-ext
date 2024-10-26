@@ -1,0 +1,4 @@
+name = "Ela"
+grammar = "ela"
+path_suffixes = ["ela"]
+line_comments = ["//"]
