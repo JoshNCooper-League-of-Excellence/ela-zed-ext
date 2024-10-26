@@ -8,4 +8,4 @@ repository = "https://github.com/JoshNCooper-League-of-Excellence/ela-zed-ext"
 
 [grammars.ela]
 repository = "https://github.com/JoshNCooper-League-of-Excellence/ela-tree-sitter"
-commit = "aaf688171dfa7242b64df2d697ccd3a71892bcd0"
+commit = "8fb911c23f596946492033147cec291b6bfb4eab"
